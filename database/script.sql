@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `springbootdb` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
-USE `springbootdb`;
+CREATE DATABASE  IF NOT EXISTS `kataBank` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
+USE `kataBank`;
 -- MySQL dump 10.13  Distrib 5.7.12, for osx10.9 (x86_64)
 --
--- Host: 127.0.0.1    Database: springbootdb
+-- Host: 127.0.0.1    Database: kataBank
 -- ------------------------------------------------------
 -- Server version	5.7.15
 

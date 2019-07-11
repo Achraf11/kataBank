@@ -19,17 +19,17 @@ public class Customer implements Serializable {
     public Customer() {
     }
 
-    public Customer(String code, String custommerNom, String securityPhone) {
+    public Customer(Long code, String custommerNom, String securityPhone) {
         this.code = code;
         CustommerNom = custommerNom;
         SecurityPhone = securityPhone;
     }
 
-    public String getCode() {
+    public Long getCode() {
         return code;
     }
 
-    public void setCode(String code) {
+    public void setCode(Long code) {
         this.code = code;
     }
 

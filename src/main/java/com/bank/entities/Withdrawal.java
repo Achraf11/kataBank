@@ -11,7 +11,7 @@ public class Withdrawal extends Operation implements Serializable {
     public Withdrawal() {
     }
 
-    public Withdrawal(Date operationDate, Amount amount, Account account) {
+    public Withdrawal(Date operationDate, double amount, Account account) {
         super(operationDate, amount, account);
     }
 }
